@@ -6,7 +6,7 @@ The system consists of independent services responsible for authentication, prod
 management, order processing, and payments.
 
 ## Microservices
-- Auth Service → [https://github.com/ShaliniTiwariii/authJava](https://github.com/ShaliniTiwariii/authJava)
+- Auth Service → [https://github.com/ShaliniTiwariii/authJava](https://github.com/ShaliniTiwariiii/authJava)
 - Product Service → [https://github.com/ShaliniTiwariii/productServices](https://github.com/ShaliniTiwariiii/productServiceMarch26)
 - Payment Service →[ https://github.com/ShaliniTiwariii/paymentService](https://github.com/ShaliniTiwariiii/paymentService)
 

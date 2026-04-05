@@ -7,7 +7,7 @@ management, order processing, and payments.
 
 ## Microservices
 - Auth Service → https://github.com/ShaliniTiwariii/authJava
-- Product Service → https://github.com/ShaliniTiwariii/productServices
+- Product Service → [https://github.com/ShaliniTiwariii/productServices](https://github.com/ShaliniTiwariiii/productServiceMarch26)
 - Payment Service → https://github.com/ShaliniTiwariii/paymentService
 
 ## Tech Stack
